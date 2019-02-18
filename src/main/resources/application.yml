@@ -6,3 +6,10 @@ guru:
   username: Carl
   password: password
   dburl: asdfaasdf
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: JMS Username $$$$$$ German
